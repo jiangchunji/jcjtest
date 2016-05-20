@@ -1,0 +1,17 @@
+{
+    "name": "jcj/laravel",
+    "description": "jcj for laravel5",
+    "authors": [
+        {
+            "name": "kevin",
+            "email": "kevin@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JCJ\\JCJ1\\": "src/"
+        }
+    }
+}
+
